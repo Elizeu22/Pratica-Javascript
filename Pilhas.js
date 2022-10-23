@@ -59,6 +59,7 @@ class Stack{
         stackMinuto58.push(11523);
     
         stackMinuto58.pop();
+        stackMinuto58.pop();
     
 
 
